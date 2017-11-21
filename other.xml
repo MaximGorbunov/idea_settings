@@ -1,9 +1,0 @@
-<application>
-  <component name="CodeStyleSchemesUIConfiguration">
-    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:D:/intellij/google-codestyle.xml" />
-  </component>
-  <component name="RefactoringSettings">
-    <option name="MOVE_PREVIEW_USAGES" value="false" />
-    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
-  </component>
-</application>
