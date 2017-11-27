@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="all" type="PLAIN_TEXT" />
       <mapping pattern="currency-error-response" type="PLAIN_TEXT" />
+      <mapping pattern="inv-production" type="PLAIN_TEXT" />
       <mapping pattern="cards-api-response" type="PLAIN_TEXT" />
       <mapping pattern="retail-vr-hosts" type="PLAIN_TEXT" />
       <mapping pattern="payment-execute-response.xml" type="PLAIN_TEXT" />
