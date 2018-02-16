@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
+  </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateGradleToolWindow">
     <keyboard-shortcut first-keystroke="alt g" />
@@ -16,6 +19,9 @@
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="shift alt f10" />
     <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
   </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="alt b" />
