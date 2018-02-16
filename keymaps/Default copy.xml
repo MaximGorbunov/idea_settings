@@ -29,6 +29,9 @@
   <action id="LocalHistory">
     <keyboard-shortcut first-keystroke="shift ctrl alt open_bracket" />
   </action>
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
