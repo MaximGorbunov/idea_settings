@@ -4,14 +4,15 @@
     <extensionMap>
       <mapping pattern="payment-execute-response.xml" type="PLAIN_TEXT" />
       <mapping pattern="MuslJavaCompiler" type="PLAIN_TEXT" />
+      <mapping pattern="retail-vr-hosts" type="PLAIN_TEXT" />
       <mapping pattern="all" type="PLAIN_TEXT" />
       <mapping pattern="integration" type="PLAIN_TEXT" />
       <mapping pattern="cards-api-response" type="PLAIN_TEXT" />
       <mapping pattern="Openjdk10Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="inv-production" type="PLAIN_TEXT" />
       <mapping pattern="currency-error-response" type="PLAIN_TEXT" />
-      <mapping pattern="retail-vr-hosts" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="newcluster-int" type="PLAIN_TEXT" />
       <mapping ext="as-dev" type="PLAIN_TEXT" />
