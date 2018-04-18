@@ -8,6 +8,7 @@
       <mapping pattern="all" type="PLAIN_TEXT" />
       <mapping pattern="integration" type="PLAIN_TEXT" />
       <mapping pattern="cards-api-response" type="PLAIN_TEXT" />
+      <mapping pattern="stream-metrics-exporter" type="PLAIN_TEXT" />
       <mapping pattern="Openjdk10Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="inv-production" type="PLAIN_TEXT" />
       <mapping pattern="currency-error-response" type="PLAIN_TEXT" />
