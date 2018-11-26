@@ -6,6 +6,7 @@
       <mapping pattern="MuslJavaCompiler" type="PLAIN_TEXT" />
       <mapping pattern="retail-vr-hosts" type="PLAIN_TEXT" />
       <mapping pattern="mesos-exporter-master" type="PLAIN_TEXT" />
+      <mapping pattern="mesos-masters" type="PLAIN_TEXT" />
       <mapping pattern="stream-metrics-exporter" type="PLAIN_TEXT" />
       <mapping pattern="all" type="PLAIN_TEXT" />
       <mapping pattern="grafana" type="PLAIN_TEXT" />
@@ -18,6 +19,7 @@
       <mapping pattern="inv-production" type="PLAIN_TEXT" />
       <mapping pattern="currency-error-response" type="PLAIN_TEXT" />
       <mapping pattern="mesos-exporter-masters" type="PLAIN_TEXT" />
+      <mapping pattern="exporters" type="PLAIN_TEXT" />
       <mapping pattern="prometheus" type="PLAIN_TEXT" />
       <mapping pattern="mongo-exporter" type="PLAIN_TEXT" />
       <mapping pattern="kafka-exporter" type="PLAIN_TEXT" />
