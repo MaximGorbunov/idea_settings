@@ -1,7 +1,0 @@
-<templateSet group="surround">
-  <template name="R" value="return $SELECTION$" description="Surround with return" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_CODE" value="true" />
-    </context>
-  </template>
-</templateSet>
