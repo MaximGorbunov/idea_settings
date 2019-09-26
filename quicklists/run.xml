@@ -1,0 +1,5 @@
+<list display="run">
+  <action id="QuickList.$Separator$" />
+  <action id="ChooseRunConfiguration" />
+  <action id="Jdbc.OpenConsole.New.Generate" />
+</list>

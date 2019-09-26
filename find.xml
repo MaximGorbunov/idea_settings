@@ -1,0 +1,28 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.jsp</mask>
+    <mask>*.as</mask>
+    <mask>*.mxml</mask>
+    <mask>tp-core.css</mask>
+    <mask>*.*html</mask>
+    <mask>*.kt</mask>
+    <mask>*.xml</mask>
+    <mask>*.gradle</mask>
+    <mask>*.sql</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.shtml</mask>
+    <mask>*.ts</mask>
+    <mask>*.sq</mask>
+    <mask>*.json</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+  </component>
+</application>
