@@ -14,9 +14,8 @@
     <option name="KEEP_BLANK_LINES_BETWEEN_PACKAGE_DECLARATION_AND_HEADER" value="1" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
-    <option name="ALIGN_MULTILINE_PARENTHESIZED_EXPRESSION" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
-    <option name="CALL_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
+    <option name="PREFER_PARAMETERS_WRAP" value="true" />
     <option name="METHOD_PARAMETERS_WRAP" value="1" />
     <option name="RESOURCE_LIST_WRAP" value="1" />
     <option name="EXTENDS_LIST_WRAP" value="1" />
