@@ -20,10 +20,10 @@
     <mask>*.json</mask>
     <mask>*.properties</mask>
     <mask>*.sql</mask>
-    <mask>*.java</mask>
-    <mask>*.java</mask>
     <mask>*.shtml</mask>
     <mask>*.gradle</mask>
+    <mask>*.java</mask>
+    <mask>*.java</mask>
     <mask>*.js</mask>
   </component>
 </application>
