@@ -15,7 +15,6 @@
     <mask>*.sq</mask>
     <mask>*.json</mask>
     <mask>*.sql</mask>
-    <mask>*.shtml</mask>
     <mask>*.ts</mask>
     <mask>*.java</mask>
     <mask>*.java</mask>
@@ -23,5 +22,6 @@
     <mask>*.properties.</mask>
     <mask>*.gradle</mask>
     <mask>*.properties</mask>
+    <mask>*.shtml</mask>
   </component>
 </application>
