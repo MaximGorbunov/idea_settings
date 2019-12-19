@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -15,7 +16,6 @@
     <mask>*.css</mask>
     <mask>*.sq</mask>
     <mask>*.json</mask>
-    <mask>*.sql</mask>
     <mask>*.properties.</mask>
     <mask>*.shtml</mask>
     <mask>*.ts</mask>
@@ -25,5 +25,6 @@
     <mask>*.java</mask>
     <mask>*.java</mask>
     <mask>*.gradle</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
