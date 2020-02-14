@@ -22,8 +22,8 @@
     <mask>*.gradle</mask>
     <mask>*.shtml</mask>
     <mask>*.properties</mask>
-    <mask>*.java</mask>
     <mask>*.js</mask>
+    <mask>*.java</mask>
     <mask>*.java</mask>
   </component>
 </application>
