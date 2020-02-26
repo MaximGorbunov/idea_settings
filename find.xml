@@ -20,10 +20,10 @@
     <mask>logback*</mask>
     <mask>*.properties</mask>
     <mask>*.shtml</mask>
-    <mask>*.java</mask>
     <mask>*.gradle</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
+    <mask>*.java</mask>
     <mask>*.java</mask>
   </component>
 </application>
