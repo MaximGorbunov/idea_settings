@@ -20,9 +20,9 @@
     <mask>*.shtml</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
-    <mask>*.gradle</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.java</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
