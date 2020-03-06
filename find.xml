@@ -1,11 +1,13 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localWholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.shtml" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -23,9 +25,9 @@
     <mask>*.css</mask>
     <mask>*.gradle</mask>
     <mask>*.properties</mask>
-    <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.java</mask>
     <mask>*.shtml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
