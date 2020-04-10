@@ -1,8 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -20,8 +23,8 @@
     <mask>*.kt</mask>
     <mask>*.properties</mask>
     <mask>*.shtml</mask>
-    <mask>*.js</mask>
     <mask>*.gradle</mask>
+    <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.java</mask>
   </component>
