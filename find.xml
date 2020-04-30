@@ -21,9 +21,9 @@
     <mask>*.shtml</mask>
     <mask>*.sql</mask>
     <mask>*.properties</mask>
-    <mask>*.java</mask>
     <mask>*.gradle</mask>
     <mask>*.js</mask>
+    <mask>*.java</mask>
     <mask>*.java</mask>
   </component>
 </application>
