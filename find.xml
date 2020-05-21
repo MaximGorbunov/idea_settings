@@ -20,9 +20,9 @@
     <mask>*.sql</mask>
     <mask>*.properties</mask>
     <mask>*.gradle</mask>
-    <mask>*.js</mask>
     <mask>*.kt</mask>
     <mask>*.java</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
