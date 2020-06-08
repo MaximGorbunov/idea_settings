@@ -94,6 +94,10 @@
           <option name="url" value="ssh://git@stash.piano.io:7999/c2/c2-common.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.com:piano/gitops/prod.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
