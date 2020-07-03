@@ -27,7 +27,7 @@
     <mask>*.shtml</mask>
     <mask>*.properties</mask>
     <mask>*.proto</mask>
-    <mask>*.js</mask>
     <mask>*.gradle</mask>
+    <mask>*.js</mask>
   </component>
 </application>
