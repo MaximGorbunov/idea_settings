@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -17,7 +17,6 @@
     <mask>*.sq</mask>
     <mask>*.json</mask>
     <mask>*.properties.</mask>
-    <mask>*.ts</mask>
     <mask>*.html</mask>
     <mask>logback*</mask>
     <mask>*.css</mask>
@@ -30,5 +29,6 @@
     <mask>*.proto</mask>
     <mask>*.gradle</mask>
     <mask>*.js</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
