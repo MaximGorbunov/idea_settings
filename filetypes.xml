@@ -1,21 +1,21 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="localignore" type="PLAIN_TEXT" />
       <mapping pattern="newsCycleCampaignsOld" type="PLAIN_TEXT" />
       <mapping pattern="tooken" type="PLAIN_TEXT" />
-      <mapping pattern="ignore" type="PLAIN_TEXT" />
-      <mapping pattern="localignore" type="PLAIN_TEXT" />
-      <mapping pattern="remoteignore" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping ext="ser" type="PLAIN_TEXT" />
+      <mapping pattern="remoteignore" type="PLAIN_TEXT" />
+      <mapping pattern="ignore" type="PLAIN_TEXT" />
       <mapping ext="pot" type="PLAIN_TEXT" />
-      <mapping ext="po" type="PLAIN_TEXT" />
       <mapping ext="vmoptions" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="ser" type="PLAIN_TEXT" />
+      <mapping ext="po" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
