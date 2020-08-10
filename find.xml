@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.shtml" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -20,7 +21,6 @@
     <mask>*.css</mask>
     <mask>*.sql</mask>
     <mask>*.kt</mask>
-    <mask>*.shtml</mask>
     <mask>*.proto</mask>
     <mask>*.ts</mask>
     <mask>*.html</mask>
@@ -29,5 +29,6 @@
     <mask>*.java</mask>
     <mask>*.java</mask>
     <mask>*.gradle</mask>
+    <mask>*.shtml</mask>
   </component>
 </application>
