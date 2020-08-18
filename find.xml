@@ -22,9 +22,9 @@
     <mask>*.html</mask>
     <mask>*.shtml</mask>
     <mask>*.properties</mask>
-    <mask>*.java</mask>
     <mask>*.gradle</mask>
     <mask>*.js</mask>
+    <mask>*.java</mask>
     <mask>*.java</mask>
   </component>
 </application>
