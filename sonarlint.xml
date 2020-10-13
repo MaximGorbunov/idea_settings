@@ -2,6 +2,7 @@
   <component name="SonarLintGlobalSettings">
     <option name="autoTrigger" value="false" />
     <rules>
+      <Rule active="false" key="java:S1186" />
       <Rule active="false" key="kotlin:S100" />
     </rules>
   </component>
