@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.gradle.kts" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -27,5 +27,6 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.java</mask>
+    <mask>*.gradle.kts</mask>
   </component>
 </application>
