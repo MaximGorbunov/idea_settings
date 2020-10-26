@@ -134,6 +134,10 @@
           <option name="url" value="git@gitlab.com:piano/composer/library/cxense-api-sdk.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.com:piano/composer/library/common/metric.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
