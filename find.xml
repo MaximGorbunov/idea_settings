@@ -23,10 +23,10 @@
     <mask>*.gradle.kts</mask>
     <mask>*.gradle.*</mask>
     <mask>*.properties</mask>
-    <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.kt</mask>
     <mask>*.gradle</mask>
+    <mask>*.java</mask>
     <mask>*.java</mask>
   </component>
 </application>
