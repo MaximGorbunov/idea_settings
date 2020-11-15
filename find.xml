@@ -20,7 +20,6 @@
     <mask>*.proto</mask>
     <mask>*.shtml</mask>
     <mask>*.gradle.kts</mask>
-    <mask>*.js</mask>
     <mask>*.kt</mask>
     <mask>*.gradle</mask>
     <mask>*.gradle.*</mask>
@@ -28,5 +27,6 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
