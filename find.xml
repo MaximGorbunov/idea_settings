@@ -27,8 +27,8 @@
     <mask>*.js</mask>
     <mask>*.s</mask>
     <mask>*.ts</mask>
-    <mask>*.java</mask>
     <mask>*.gradle*</mask>
+    <mask>*.java</mask>
     <mask>*.java</mask>
   </component>
 </application>
