@@ -29,8 +29,8 @@
     <mask>*.ts</mask>
     <mask>*.proto</mask>
     <mask>*.properties</mask>
-    <mask>*.java</mask>
     <mask>*.gradle*</mask>
+    <mask>*.java</mask>
     <mask>*.java</mask>
   </component>
 </application>
