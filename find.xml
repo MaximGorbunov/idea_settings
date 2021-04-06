@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../src/test/kotlin/io/piano/c2/stats/grpc/integration/StatsServiceGrpcIntegrationTest.kt [c2-stats-service.test]'" />
-    <option name="defaultScopeName" value="File '.../src/test/kotlin/io/piano/c2/stats/grpc/integration/StatsServiceGrpcIntegrationTest.kt [c2-stats-service.test]'" />
-    <option name="SEARCH_SCOPE" value="File '.../src/test/kotlin/io/piano/c2/stats/grpc/integration/StatsServiceGrpcIntegrationTest.kt [c2-stats-service.test]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
