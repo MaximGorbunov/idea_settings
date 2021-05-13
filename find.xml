@@ -23,11 +23,11 @@
     <mask>*.kt</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
-    <mask>*.properties</mask>
     <mask>*.gradle*</mask>
     <mask>*.java</mask>
     <mask>*.gradle</mask>
     <mask>*.gradle.*</mask>
     <mask>*.java</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
