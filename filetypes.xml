@@ -5,16 +5,31 @@
       <mapping pattern="bytecode" type="AUTO_DETECTED" />
       <mapping pattern="jwt-private" type="AUTO_DETECTED" />
       <mapping pattern="dump" type="HPROF" />
+      <mapping pattern="jest.config" type="JSON" />
+      <mapping pattern=".eslintrc" type="JSON" />
+      <mapping pattern="bowerrc" type="JSON" />
+      <mapping pattern=".stylelintrc" type="JSON" />
+      <mapping pattern=".babelrc" type="JSON" />
+      <mapping ext="jsb3" type="JSON" />
+      <mapping ext="jsb2" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="localignore" type="PLAIN_TEXT" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern=".stylelintignore" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="remoteignore" type="PLAIN_TEXT" />
+      <mapping pattern=".jshintignore" type="PLAIN_TEXT" />
       <mapping pattern="newsCycleCampaignsOld" type="PLAIN_TEXT" />
       <mapping pattern="tooken" type="PLAIN_TEXT" />
+      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".yarnrc" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern=".npmignore" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".node-version" type="PLAIN_TEXT" />
+      <mapping pattern="remoteignore" type="PLAIN_TEXT" />
       <mapping pattern="ignore" type="PLAIN_TEXT" />
+      <mapping pattern=".eslintignore" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="pot" type="PLAIN_TEXT" />
       <mapping ext="vmoptions" type="PLAIN_TEXT" />
