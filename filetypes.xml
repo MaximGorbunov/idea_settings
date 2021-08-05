@@ -8,7 +8,6 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="remoteignore" type="PLAIN_TEXT" />
       <mapping pattern="localignore" type="PLAIN_TEXT" />
       <mapping pattern="newsCycleCampaignsOld" type="PLAIN_TEXT" />
@@ -29,6 +28,7 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern=".dockerignore" approved="true" type="Docker File" />
     </extensionMap>
   </component>
 </application>
