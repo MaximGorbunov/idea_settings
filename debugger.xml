@@ -408,14 +408,9 @@
       <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
     </general>
     <debuggers>
-      <debugger id="javascript">
-        <configuration>
-          <custom-object-presentation />
-        </configuration>
-      </debugger>
       <debugger id="kotlin_debugger">
         <configuration>
-          <option name="filterForStdlibAlreadyAdded" value="true" />
+          <option name="debugDisableCoroutineAgent" value="true" />
         </configuration>
       </debugger>
     </debuggers>
