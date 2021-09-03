@@ -1,5 +1,5 @@
 <application>
-  <component name="EqualsHashCodeTemplates" defaultTemplateName="IntelliJ Default equals">
+  <component name="EqualsHashCodeTemplates" defaultTemplateName="java.util.Objects.equals and hashCode (java 7+) equals">
     <option name="templates">
       <list>
         <TemplateResource>
