@@ -1,0 +1,33 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <mask>*.jsp</mask>
+    <mask>*.as</mask>
+    <mask>*.mxml</mask>
+    <mask>tp-core.css</mask>
+    <mask>*.*html</mask>
+    <mask>*.xml</mask>
+    <mask>*.sq</mask>
+    <mask>*.json</mask>
+    <mask>*.properties.</mask>
+    <mask>logback*</mask>
+    <mask>*.css</mask>
+    <mask>*.sql</mask>
+    <mask>*.html</mask>
+    <mask>*.gradle.kts</mask>
+    <mask>*.s</mask>
+    <mask>*.shtml</mask>
+    <mask>*.proto</mask>
+    <mask>*.gradle.*</mask>
+    <mask>*.gradle</mask>
+    <mask>*.ts</mask>
+    <mask>*.js</mask>
+    <mask>*.gradle*</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
+    <mask>*.java</mask>
+    <mask>*.kt</mask>
+  </component>
+</application>
