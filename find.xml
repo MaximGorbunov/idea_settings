@@ -20,15 +20,15 @@
     <mask>*.gradle.kts</mask>
     <mask>*.s</mask>
     <mask>*.shtml</mask>
-    <mask>*.proto</mask>
     <mask>*.gradle.*</mask>
     <mask>*.gradle</mask>
     <mask>*.ts</mask>
-    <mask>*.js</mask>
     <mask>*.properties</mask>
-    <mask>*.java</mask>
-    <mask>*.java</mask>
     <mask>*.kt</mask>
+    <mask>*.java</mask>
+    <mask>*.java</mask>
     <mask>*.gradle*</mask>
+    <mask>*.js</mask>
+    <mask>*.proto</mask>
   </component>
 </application>
