@@ -7,7 +7,7 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@gitlab.com:piano/composer/library/common/c1-compatible.git" />
+          <option name="url" value="ssh://git@stash.piano.io:7999/piano-infra/ci.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
