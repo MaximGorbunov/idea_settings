@@ -11,7 +11,7 @@
     <mask>*.proto</mask>
     <mask>*.properties</mask>
     <mask>*.gradle*</mask>
-    <mask>*.java</mask>
     <mask>*.js</mask>
+    <mask>*.java</mask>
   </component>
 </application>
