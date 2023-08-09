@@ -13,5 +13,6 @@
     <mask>*.gradle*</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
