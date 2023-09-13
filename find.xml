@@ -10,9 +10,9 @@
     <mask>*.proto</mask>
     <mask>*.gradle*</mask>
     <mask>*.kt</mask>
-    <mask>*.java</mask>
     <mask>*.css</mask>
     <mask>*.properties</mask>
     <mask>*.js</mask>
+    <mask>*.java</mask>
   </component>
 </application>
