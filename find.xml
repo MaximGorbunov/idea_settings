@@ -11,8 +11,8 @@
     <mask>*.css</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.js</mask>
     <mask>*.gradle*</mask>
     <mask>*.kt</mask>
+    <mask>*.js</mask>
   </component>
 </application>
